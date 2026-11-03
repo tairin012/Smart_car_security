@@ -19,6 +19,6 @@ An IoT-based vehicle monitoring and crash detection system built using NodeMCU M
 - L298N Motor Driver + 4 DC Gear Motors
 
 Roles :
-Mazedul Hasan Khan Zidan - Code , Circuit Architecture , Hardware Assembly
-Tairin Islam - Circuit Architecture , Diagrams , Hardware Assembly
-Mansora Akter Bithe - Report , Hardware Assembly
+- Mazedul Hasan Khan Zidan - Code , Circuit Architecture , Hardware Assembly
+- Tairin Islam - Circuit Architecture , Diagrams , Hardware Assembly
+- Mansora Akter Bithe - Report , Hardware Assembly
